@@ -1,1 +1,1 @@
-SQL DROP myNewDB;
+ DROP DATABASE myNewDB;

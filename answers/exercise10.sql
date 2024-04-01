@@ -1,2 +1,2 @@
-SELECT * FROM Students;
-WHERE City= 'Philadedlphia';
+SELECT * FROM Students
+WHERE City = 'Philadelphia' OR 'Trenton';

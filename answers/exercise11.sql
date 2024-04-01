@@ -1,2 +1,2 @@
-SELECT * FROM Students;
+SELECT * FROM Students
 ORDER BY City;
